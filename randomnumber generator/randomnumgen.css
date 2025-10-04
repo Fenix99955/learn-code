@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
+
+#butt{
+   
+    width: 240px;
+    height: 130px;
+    border-radius: 15px
+    
+
+}
+#butt:hover{
+    background-color: aqua;
+}
+#ass{
+    font-size: 50px;
+    width: max-content;
+}
